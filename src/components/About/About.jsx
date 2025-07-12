@@ -1,4 +1,4 @@
-import React from 'react';
+
 import ReactTypingEffect from 'react-typing-effect';
 import Tilt from 'react-parallax-tilt';
 import profileImage from '../../assets/profile2.png';
@@ -40,7 +40,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I'm a full-stack developer with a strong foundation in Java and web technologies. Skilled in both front-end and back-end development, I'm passionate about building scalable applications and continuously learning modern tools to create efficient, user-friendly solutions.
+            I am a full-stack developer with a strong foundation in Java and web technologies. Skilled in both front-end and back-end development, I am passionate about building scalable applications and continuously learning modern tools to create efficient, user-friendly solutions.
           </p>
           {/* Resume Button */}
           <a
@@ -70,7 +70,7 @@ const About = () => {
           >
             <img
               src={profileImage}
-              alt="Tarun Kaushik"
+              alt="Kanhu Charan Maharana"
               className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"
             />
           </Tilt>
