@@ -159,8 +159,8 @@ export const SkillsInfo = [
         "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-      webapp: "https://githubprofiledetective.netlify.app/",
+     // github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
+      //webapp: "https://githubprofiledetective.netlify.app/",
     },
     {
       id: 1,
@@ -169,8 +169,8 @@ export const SkillsInfo = [
         "Developed a dynamic hotel booking web application that allows users to search hotels, check room availability, filter by price and location, make bookings, and manage reservations. Integrated secure user login, real-time booking confirmation, and responsive UI for smooth user experience.",
       image: csprepLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/CSPrep",
-      webapp: "https://csprep.netlify.app/",
+      //github: "https://github.com/codingmastr/CSPrep",
+      //webapp: "https://csprep.netlify.app/",
     },
     
    
